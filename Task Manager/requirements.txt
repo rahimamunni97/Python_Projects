@@ -1,0 +1,3 @@
+# Task Manager - No external dependencies required!
+# Python 3.6+ is sufficient
+
