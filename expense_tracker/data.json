@@ -1,0 +1,10 @@
+{
+    "expenses": [
+        {
+            "amount": 12.0,
+            "category": "FFood",
+            "note": "ok",
+            "date": "2025-11-17 05:46:46"
+        }
+    ]
+}
